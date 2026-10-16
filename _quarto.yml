@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "cours/**/*.qmd"
+    - "exercices/**/*.qmd"
+  resources:
+    - assets/
+    - ressources/
+lang: fr
+website:
+  title: "Sciences physiques"
+  description: "Cours, méthodes et exercices de sciences physiques"
+  favicon: assets/logo.svg
+  navbar:
+    logo: assets/logo.svg
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: cours/index.qmd
+        text: Cours
+      - href: exercices/index.qmd
+        text: Exercices
+      - href: ressources.qmd
+        text: Ressources
+      - href: a-propos.qmd
+        text: À propos
+  sidebar:
+    - title: Cours
+      style: docked
+      contents:
+        - cours/index.qmd
+        - section: BTS Électrotechnique
+          contents:
+            - cours/bts/puissances.qmd
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+    left: "Sciences physiques — supports pédagogiques"
+    right: "Réalisé avec Quarto"
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [darkly, theme.scss]
+    css: styles.css
+    toc: true
+    toc-title: "Sur cette page"
+    number-sections: false
+    code-copy: true
+    code-fold: true
+    smooth-scroll: true
+    html-math-method: mathjax
+    link-external-newwindow: true
+execute:
+  echo: false
+  warning: false
+  message: false

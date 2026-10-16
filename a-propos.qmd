@@ -1,0 +1,15 @@
+---
+title: "À propos"
+---
+
+## Ce site
+
+Ce gabarit permet de diffuser des supports pédagogiques de sciences physiques.
+
+## Auteur
+
+À compléter : nom, établissement, niveaux enseignés et coordonnées professionnelles que vous souhaitez rendre publiques.
+
+## Conditions de réutilisation
+
+À compléter : précisez les droits de réutilisation de vos supports et citez les sources des documents tiers.

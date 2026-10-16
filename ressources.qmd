@@ -1,0 +1,14 @@
+---
+title: "Ressources"
+---
+
+## Téléchargements
+
+- [Exemple de données au format CSV](ressources/mesures.csv)
+
+Pour partager une fiche PDF, déposez-la dans le dossier `ressources`, puis ajoutez un lien de la forme un lien Markdown vers ce fichier.
+
+## Outils
+
+- [Documentation Quarto](https://quarto.org/docs/guide/)
+- [R et RStudio](https://posit.co/download/rstudio-desktop/)

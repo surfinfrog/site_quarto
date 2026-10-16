@@ -1,0 +1,32 @@
+---
+title: "Titre du chapitre"
+subtitle: "Niveau · Thème"
+number-sections: true
+---
+
+# Objectifs
+
+- Premier objectif.
+- Deuxième objectif.
+
+# Notions essentielles
+
+Votre texte ici. Exemple de formule : $P=UI$.
+
+::: {.callout-note}
+## Définition
+Votre définition.
+:::
+
+# Application
+
+Énoncé de l'application.
+
+::: {.callout-tip collapse="true"}
+## Corrigé
+Votre correction.
+:::
+
+# Bilan
+
+Les points essentiels à mémoriser.

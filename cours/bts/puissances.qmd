@@ -1,0 +1,64 @@
+---
+title: "Puissances en régime sinusoïdal"
+subtitle: "BTS Électrotechnique · Exemple de chapitre"
+number-sections: true
+---
+
+# Objectifs
+
+- Distinguer les puissances active, réactive et apparente.
+- Utiliser les valeurs efficaces et le déphasage.
+- Calculer le facteur de puissance d'un dipôle.
+
+# Grandeurs sinusoïdales
+
+On considère une tension et un courant sinusoïdaux :
+
+$$u(t)=\sqrt{2}\,U\cos(\omega t),\qquad i(t)=\sqrt{2}\,I\cos(\omega t-\varphi).$$
+
+$U$ et $I$ sont les valeurs efficaces. La convention choisie donne $\varphi>0$ pour un courant en retard sur la tension.
+
+# Les trois puissances
+
+| Grandeur | Expression | Unité |
+|---|---|---|
+| Puissance active | $P=UI\cos\varphi$ | watt (W) |
+| Puissance réactive | $Q=UI\sin\varphi$ | var |
+| Puissance apparente | $S=UI$ | voltampère (VA) |
+
+::: {.callout-important}
+## À retenir
+Dans ce régime sinusoïdal : $S^2=P^2+Q^2$ et $\lambda=P/S=\cos\varphi$.
+:::
+
+# Exemple chiffré
+
+Un récepteur absorbe un courant efficace de $5{,}0\ \mathrm{A}$ sous $230\ \mathrm{V}$, avec $\cos\varphi=0{,}80$ et un comportement inductif.
+
+$$S=1150\ \mathrm{VA},\qquad P=920\ \mathrm{W},\qquad Q=690\ \mathrm{var}.$$
+
+# Graphique calculé avec R
+
+Le graphique est calculé lors de la génération du site. Les élèves consultent ensuite une simple page HTML.
+
+```{r}
+#| label: fig-signaux
+#| fig-cap: "Tension et courant normalisés, avec un retard du courant de 36,9°."
+#| fig-alt: "Deux sinusoïdes sur deux périodes. Le courant est en retard sur la tension."
+#| fig-width: 8
+#| fig-height: 3.5
+#| echo: true
+t <- seq(0, 0.04, length.out = 800)
+phi <- acos(0.8)
+plot(t * 1000, cos(2*pi*50*t), type = "l", lwd = 2,
+     col = "#176b87", ylim = c(-1.2, 1.2),
+     xlab = "Temps (ms)", ylab = "Amplitude normalisée")
+lines(t * 1000, cos(2*pi*50*t-phi), col = "#c9562d", lwd = 2)
+abline(h = 0, col = "grey75")
+legend("topright", c("u / Umax", "i / Imax"),
+       col = c("#176b87", "#c9562d"), lwd = 2, bty = "n")
+```
+
+# Vérifier sa compréhension
+
+[Passer aux exercices](../../exercices/puissances.qmd){.btn .btn-primary}

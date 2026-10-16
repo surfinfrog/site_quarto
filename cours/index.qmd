@@ -1,0 +1,15 @@
+---
+title: "Cours"
+---
+
+## BTS Électrotechnique
+
+- [Puissances en régime sinusoïdal](bts/puissances.qmd)
+
+## Lycée
+
+Ajoutez ici vos chapitres de Seconde, de Première ou de Terminale.
+
+::: {.callout-tip}
+Pour créer un chapitre, copiez `modeles/chapitre.qmd` dans un sous-dossier de `cours`, puis ajoutez son lien sur cette page et dans `_quarto.yml`.
+:::

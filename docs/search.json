@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Comprendre, expérimenter, progresser",
+    "section": "",
+    "text": "Bienvenue\n\n\n\nUn espace pour retrouver les cours, les méthodes et les activités expérimentales. Ce contenu est un exemple à adapter à vos classes."
+  },
+  {
+    "objectID": "index.html#explorer-les-supports",
+    "href": "index.html#explorer-les-supports",
+    "title": "Comprendre, expérimenter, progresser",
+    "section": "Explorer les supports",
+    "text": "Explorer les supports\n\n\nCours\nDes notions structurées, des formules et des exemples commentés.\nConsulter les cours\n\n\nExercices\nS’entraîner et vérifier sa démarche avec les corrigés.\nS’entraîner\n\n\nRessources\nFiches méthodes et fichiers à télécharger.\nVoir les ressources"
+  },
+  {
+    "objectID": "index.html#à-découvrir",
+    "href": "index.html#à-découvrir",
+    "title": "Comprendre, expérimenter, progresser",
+    "section": "À découvrir",
+    "text": "À découvrir\nPuissances en régime sinusoïdal — BTS Électrotechnique\nExercices d’application sur les puissances"
+  },
+  {
+    "objectID": "cours/bts/puissances.html",
+    "href": "cours/bts/puissances.html",
+    "title": "Puissances en régime sinusoïdal",
+    "section": "",
+    "text": "1 Objectifs\n\nDistinguer les puissances active, réactive et apparente.\nUtiliser les valeurs efficaces et le déphasage.\nCalculer le facteur de puissance d’un dipôle.\n\n\n\n2 Grandeurs sinusoïdales\nOn considère une tension et un courant sinusoïdaux :\n\\[u(t)=\\sqrt{2}\\,U\\cos(\\omega t),\\qquad i(t)=\\sqrt{2}\\,I\\cos(\\omega t-\\varphi).\\]\n\\(U\\) et \\(I\\) sont les valeurs efficaces. La convention choisie donne \\(\\varphi&gt;0\\) pour un courant en retard sur la tension.\n\n\n3 Les trois puissances\n\n\n\nGrandeur\nExpression\nUnité\n\n\n\n\nPuissance active\n\\(P=UI\\cos\\varphi\\)\nwatt (W)\n\n\nPuissance réactive\n\\(Q=UI\\sin\\varphi\\)\nvar\n\n\nPuissance apparente\n\\(S=UI\\)\nvoltampère (VA)\n\n\n\n\n\n\n\n\n\nÀ retenir\n\n\n\nDans ce régime sinusoïdal : \\(S^2=P^2+Q^2\\) et \\(\\lambda=P/S=\\cos\\varphi\\).\n\n\n\n\n4 Exemple chiffré\nUn récepteur absorbe un courant efficace de \\(5{,}0\\ \\mathrm{A}\\) sous \\(230\\ \\mathrm{V}\\), avec \\(\\cos\\varphi=0{,}80\\) et un comportement inductif.\n\\[S=1150\\ \\mathrm{VA},\\qquad P=920\\ \\mathrm{W},\\qquad Q=690\\ \\mathrm{var}.\\]\n\n\n5 Graphique calculé avec R\nLe graphique est calculé lors de la génération du site. Les élèves consultent ensuite une simple page HTML.\n\n\nCode\nt &lt;- seq(0, 0.04, length.out = 800)\nphi &lt;- acos(0.8)\nplot(t * 1000, cos(2*pi*50*t), type = \"l\", lwd = 2,\n     col = \"#176b87\", ylim = c(-1.2, 1.2),\n     xlab = \"Temps (ms)\", ylab = \"Amplitude normalisée\")\nlines(t * 1000, cos(2*pi*50*t-phi), col = \"#c9562d\", lwd = 2)\nabline(h = 0, col = \"grey75\")\nlegend(\"topright\", c(\"u / Umax\", \"i / Imax\"),\n       col = c(\"#176b87\", \"#c9562d\"), lwd = 2, bty = \"n\")\n\n\n\n\n\n\n\n\nFigure 1: Tension et courant normalisés, avec un retard du courant de 36,9°.\n\n\n\n\n\n\n\n6 Vérifier sa compréhension\nPasser aux exercices",
+    "crumbs": [
+      "Cours",
+      "BTS Électrotechnique",
+      "Puissances en régime sinusoïdal"
+    ]
+  },
+  {
+    "objectID": "modeles/chapitre.html",
+    "href": "modeles/chapitre.html",
+    "title": "Titre du chapitre",
+    "section": "",
+    "text": "1 Objectifs\n\nPremier objectif.\nDeuxième objectif.\n\n\n\n2 Notions essentielles\nVotre texte ici. Exemple de formule : \\(P=UI\\).\n\n\n\n\n\n\nDéfinition\n\n\n\nVotre définition.\n\n\n\n\n3 Application\nÉnoncé de l’application.\n\n\n\n\n\n\nCorrigé\n\n\n\n\n\nVotre correction.\n\n\n\n\n\n4 Bilan\nLes points essentiels à mémoriser."
+  },
+  {
+    "objectID": "exercices/index.html",
+    "href": "exercices/index.html",
+    "title": "Exercices",
+    "section": "",
+    "text": "Puissances en régime sinusoïdal : deux applications corrigées"
+  },
+  {
+    "objectID": "a-propos.html",
+    "href": "a-propos.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Ce gabarit permet de diffuser des supports pédagogiques de sciences physiques."
+  },
+  {
+    "objectID": "a-propos.html#ce-site",
+    "href": "a-propos.html#ce-site",
+    "title": "À propos",
+    "section": "",
+    "text": "Ce gabarit permet de diffuser des supports pédagogiques de sciences physiques."
+  },
+  {
+    "objectID": "a-propos.html#auteur",
+    "href": "a-propos.html#auteur",
+    "title": "À propos",
+    "section": "Auteur",
+    "text": "Auteur\nÀ compléter : nom, établissement, niveaux enseignés et coordonnées professionnelles que vous souhaitez rendre publiques."
+  },
+  {
+    "objectID": "a-propos.html#conditions-de-réutilisation",
+    "href": "a-propos.html#conditions-de-réutilisation",
+    "title": "À propos",
+    "section": "Conditions de réutilisation",
+    "text": "Conditions de réutilisation\nÀ compléter : précisez les droits de réutilisation de vos supports et citez les sources des documents tiers."
+  },
+  {
+    "objectID": "cours/index.html",
+    "href": "cours/index.html",
+    "title": "Cours",
+    "section": "",
+    "text": "Puissances en régime sinusoïdal",
+    "crumbs": [
+      "Cours"
+    ]
+  },
+  {
+    "objectID": "cours/index.html#bts-électrotechnique",
+    "href": "cours/index.html#bts-électrotechnique",
+    "title": "Cours",
+    "section": "",
+    "text": "Puissances en régime sinusoïdal",
+    "crumbs": [
+      "Cours"
+    ]
+  },
+  {
+    "objectID": "cours/index.html#lycée",
+    "href": "cours/index.html#lycée",
+    "title": "Cours",
+    "section": "Lycée",
+    "text": "Lycée\nAjoutez ici vos chapitres de Seconde, de Première ou de Terminale.\n\n\n\n\n\n\nAstuce\n\n\n\nPour créer un chapitre, copiez modeles/chapitre.qmd dans un sous-dossier de cours, puis ajoutez son lien sur cette page et dans _quarto.yml.",
+    "crumbs": [
+      "Cours"
+    ]
+  },
+  {
+    "objectID": "exercices/puissances.html",
+    "href": "exercices/puissances.html",
+    "title": "S’entraîner : puissances électriques",
+    "section": "",
+    "text": "Un radiateur est alimenté sous \\(230\\ \\mathrm{V}\\). Son courant efficace vaut \\(8{,}0\\ \\mathrm{A}\\) et son facteur de puissance vaut 1. Déterminer \\(S\\), \\(P\\) et \\(Q\\).\n\n\n\n\n\n\nAfficher le corrigé\n\n\n\n\n\n\\(S=UI=1840\\ \\mathrm{VA}\\) ; \\(P=1840\\ \\mathrm{W}\\) ; \\(Q=0\\ \\mathrm{var}\\)."
+  },
+  {
+    "objectID": "exercices/puissances.html#exercice-1-récepteur-résistif",
+    "href": "exercices/puissances.html#exercice-1-récepteur-résistif",
+    "title": "S’entraîner : puissances électriques",
+    "section": "",
+    "text": "Un radiateur est alimenté sous \\(230\\ \\mathrm{V}\\). Son courant efficace vaut \\(8{,}0\\ \\mathrm{A}\\) et son facteur de puissance vaut 1. Déterminer \\(S\\), \\(P\\) et \\(Q\\).\n\n\n\n\n\n\nAfficher le corrigé\n\n\n\n\n\n\\(S=UI=1840\\ \\mathrm{VA}\\) ; \\(P=1840\\ \\mathrm{W}\\) ; \\(Q=0\\ \\mathrm{var}\\)."
+  },
+  {
+    "objectID": "exercices/puissances.html#exercice-2-récepteur-inductif",
+    "href": "exercices/puissances.html#exercice-2-récepteur-inductif",
+    "title": "S’entraîner : puissances électriques",
+    "section": "Exercice 2 — Récepteur inductif",
+    "text": "Exercice 2 — Récepteur inductif\nUn récepteur absorbe \\(P=1{,}50\\ \\mathrm{kW}\\) avec \\(\\cos\\varphi=0{,}75\\), sous \\(230\\ \\mathrm{V}\\). Déterminer \\(S\\), \\(I\\) et \\(Q\\).\n\n\n\n\n\n\nAfficher le corrigé\n\n\n\n\n\n\\[S=\\frac{1500}{0{,}75}=2000\\ \\mathrm{VA}.\\] \\[I=\\frac{2000}{230}\\simeq8{,}70\\ \\mathrm{A}.\\] \\[Q=\\sqrt{S^2-P^2}\\simeq1323\\ \\mathrm{var}.\\]\n\n\n\nLes corrigés sont présents dans le HTML : ces exercices servent à l’entraînement, pas à une évaluation confidentielle."
+  },
+  {
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "Ressources",
+    "section": "",
+    "text": "Exemple de données au format CSV\n\nPour partager une fiche PDF, déposez-la dans le dossier ressources, puis ajoutez un lien de la forme un lien Markdown vers ce fichier."
+  },
+  {
+    "objectID": "ressources.html#téléchargements",
+    "href": "ressources.html#téléchargements",
+    "title": "Ressources",
+    "section": "",
+    "text": "Exemple de données au format CSV\n\nPour partager une fiche PDF, déposez-la dans le dossier ressources, puis ajoutez un lien de la forme un lien Markdown vers ce fichier."
+  },
+  {
+    "objectID": "ressources.html#outils",
+    "href": "ressources.html#outils",
+    "title": "Ressources",
+    "section": "Outils",
+    "text": "Outils\n\nDocumentation Quarto\nR et RStudio"
+  }
+]

@@ -1,0 +1,6 @@
+main { max-width: 1000px; }
+.carte { border: 1px solid var(--bs-border-color); border-radius: 14px; padding: 1.5rem; box-shadow: 0 5px 20px #00000008; }
+.carte h3 { margin-top: 0; }
+.subtitle { color: var(--bs-secondary-color); }
+.btn { white-space: normal; }
+@media print { .navbar, .sidebar, #quarto-margin-sidebar, .quarto-navigation-tool { display: none !important; } main { max-width: none; } details { display: block; } }

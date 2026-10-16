@@ -1,0 +1,39 @@
+---
+title: "Comprendre, expérimenter, progresser"
+subtitle: "Sciences physiques • Lycée et BTS"
+toc: false
+---
+
+::: {.callout-note appearance="simple"}
+## Bienvenue
+Un espace pour retrouver les cours, les méthodes et les activités expérimentales. Ce contenu est un exemple à adapter à vos classes.
+:::
+
+## Explorer les supports
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4 .carte}
+### Cours
+Des notions structurées, des formules et des exemples commentés.
+
+[Consulter les cours](cours/index.qmd){.btn .btn-primary}
+:::
+::: {.g-col-12 .g-col-md-4 .carte}
+### Exercices
+S'entraîner et vérifier sa démarche avec les corrigés.
+
+[S'entraîner](exercices/index.qmd){.btn .btn-primary}
+:::
+::: {.g-col-12 .g-col-md-4 .carte}
+### Ressources
+Fiches méthodes et fichiers à télécharger.
+
+[Voir les ressources](ressources.qmd){.btn .btn-primary}
+:::
+:::
+
+## À découvrir
+
+[Puissances en régime sinusoïdal — BTS Électrotechnique](cours/bts/puissances.qmd)
+
+[Exercices d'application sur les puissances](exercices/puissances.qmd)

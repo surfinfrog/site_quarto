@@ -1,0 +1,25 @@
+---
+title: "S'entraîner : puissances électriques"
+---
+
+## Exercice 1 — Récepteur résistif
+
+Un radiateur est alimenté sous $230\ \mathrm{V}$. Son courant efficace vaut $8{,}0\ \mathrm{A}$ et son facteur de puissance vaut 1. Déterminer $S$, $P$ et $Q$.
+
+::: {.callout-tip collapse="true"}
+## Afficher le corrigé
+$S=UI=1840\ \mathrm{VA}$ ; $P=1840\ \mathrm{W}$ ; $Q=0\ \mathrm{var}$.
+:::
+
+## Exercice 2 — Récepteur inductif
+
+Un récepteur absorbe $P=1{,}50\ \mathrm{kW}$ avec $\cos\varphi=0{,}75$, sous $230\ \mathrm{V}$. Déterminer $S$, $I$ et $Q$.
+
+::: {.callout-tip collapse="true"}
+## Afficher le corrigé
+$$S=\frac{1500}{0{,}75}=2000\ \mathrm{VA}.$$
+$$I=\frac{2000}{230}\simeq8{,}70\ \mathrm{A}.$$
+$$Q=\sqrt{S^2-P^2}\simeq1323\ \mathrm{var}.$$
+:::
+
+Les corrigés sont présents dans le HTML : ces exercices servent à l'entraînement, pas à une évaluation confidentielle.

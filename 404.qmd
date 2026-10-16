@@ -1,0 +1,8 @@
+---
+title: "Page introuvable"
+toc: false
+---
+
+La page demandée n'existe pas ou a été déplacée.
+
+[Retour à l'accueil](index.qmd){.btn .btn-primary}
