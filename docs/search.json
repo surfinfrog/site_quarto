@@ -200,14 +200,14 @@
     "href": "exercices/E1.html",
     "title": "Exercices - E1 : L’énergie et ses enjeux",
     "section": "",
-    "text": "Compléter le tableau suivant (vous détaillerez vos calculs dans votre cahier) :\n\n\n\nAppareil\nPuissance moyenne absorbée\nDurée\nÉnergie absorbée\n\n\n\n\nLampe\n50 W\n10 min\n… Wh\n\n\nMotrice de TGV\n10 MW\n… h\n\\(5 \\times 10^7\\) Wh\n\n\nOrdinateur\n200 W\n1 h\n… J\n\n\nMoteur de voiture\n… kW\n20 min\n110 MJ"
+    "text": "Compléter le tableau suivant (vous détaillerez vos calculs dans votre cahier) :\n\n\n\nAppareil\nPuissance moyenne absorbée\nDurée\nÉnergie absorbée\n\n\n\n\nLampe\n\\(50\\) W\n\\(10\\) min\n… Wh\n\n\nMotrice de TGV\n\\(10\\) MW\n… h\n\\(5 \\times 10^7\\) Wh\n\n\nOrdinateur\n\\(200\\) W\n\\(1\\) h\n… J\n\n\nMoteur de voiture\n… kW\n\\(20\\) min\n\\(110\\) MJ"
   },
   {
     "objectID": "exercices/E1.html#exercice-1-calcul-de-puissances-et-énergies---unités",
     "href": "exercices/E1.html#exercice-1-calcul-de-puissances-et-énergies---unités",
     "title": "Exercices - E1 : L’énergie et ses enjeux",
     "section": "",
-    "text": "Compléter le tableau suivant (vous détaillerez vos calculs dans votre cahier) :\n\n\n\nAppareil\nPuissance moyenne absorbée\nDurée\nÉnergie absorbée\n\n\n\n\nLampe\n50 W\n10 min\n… Wh\n\n\nMotrice de TGV\n10 MW\n… h\n\\(5 \\times 10^7\\) Wh\n\n\nOrdinateur\n200 W\n1 h\n… J\n\n\nMoteur de voiture\n… kW\n20 min\n110 MJ"
+    "text": "Compléter le tableau suivant (vous détaillerez vos calculs dans votre cahier) :\n\n\n\nAppareil\nPuissance moyenne absorbée\nDurée\nÉnergie absorbée\n\n\n\n\nLampe\n\\(50\\) W\n\\(10\\) min\n… Wh\n\n\nMotrice de TGV\n\\(10\\) MW\n… h\n\\(5 \\times 10^7\\) Wh\n\n\nOrdinateur\n\\(200\\) W\n\\(1\\) h\n… J\n\n\nMoteur de voiture\n… kW\n\\(20\\) min\n\\(110\\) MJ"
   },
   {
     "objectID": "exercices/E1.html#exercice-2-cuisson-dun-poulet",
@@ -221,7 +221,7 @@
     "href": "exercices/E1.html#exercice-3-le-moteur-chauffe",
     "title": "Exercices - E1 : L’énergie et ses enjeux",
     "section": "Exercice 3 : Le moteur chauffe !",
-    "text": "Exercice 3 : Le moteur chauffe !\nLe moteur électrique d’un tournevis sans fil, alimenté par une batterie rechargeable, de puissance électrique consommée 285 W, fournit une puissance mécanique utilisable (ou puissance utile), \\(P_u\\), de 170 W.\nOn utilise cet outil pour visser une vis dans une cheville. L’opération dure 4 s.\n\nQuelle est l’énergie électrique consommée durant cette opération ?\nQuel est le travail effectué par l’outil pour insérer la vis ?\nQuel est le rendement du moteur électrique ?\nAprès une utilisation de quelques minutes on peut percevoir que le moteur dégage de la chaleur. Justifier cette observation."
+    "text": "Exercice 3 : Le moteur chauffe !\nLe moteur électrique d’un tournevis sans fil, alimenté par une batterie rechargeable, de puissance électrique consommée 285 W, fournit une puissance mécanique utilisable (ou puissance utile), \\(P_u\\) , de 170 W.\nOn utilise cet outil pour visser une vis dans une cheville. L’opération dure 4 s.\n\nQuelle est l’énergie électrique consommée durant cette opération ?\nQuel est le travail effectué par l’outil pour insérer la vis ?\nQuel est le rendement du moteur électrique ?\nAprès une utilisation de quelques minutes on peut percevoir que le moteur dégage de la chaleur. Justifier cette observation."
   },
   {
     "objectID": "exercices/E1.html#exercice-4-rendement-dune-ampoule",

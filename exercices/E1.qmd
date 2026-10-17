@@ -8,10 +8,10 @@ Compléter le tableau suivant (vous détaillerez vos calculs dans votre cahier) 
 
 | Appareil | Puissance moyenne absorbée | Durée | Énergie absorbée |
 | --- | --- | --- | --- |
-| **Lampe** | 50 W | 10 min | ... Wh |
-| **Motrice de TGV** | 10 MW | ... h | $5 \times 10^7$ Wh |
-| **Ordinateur** | 200 W | 1 h | ... J |
-| **Moteur de voiture** | ... kW | 20 min | 110 MJ |
+| **Lampe** | $50$ W | $10$ min | ... Wh |
+| **Motrice de TGV** | $10$ MW | ... h | $5 \times 10^7$ Wh |
+| **Ordinateur** | $200$ W | $1$ h | ... J |
+| **Moteur de voiture** | ... kW | $20$ min | $110$ MJ |
 
 ## Exercice 2 : Cuisson d’un poulet
 
@@ -29,7 +29,7 @@ Hors abonnement, le prix TTC du kWh d’électricité est voisin de 0,25 euro.
 
 ## Exercice 3 : Le moteur chauffe !
 
-Le moteur électrique d’un tournevis sans fil, alimenté par une batterie rechargeable, de puissance électrique consommée 285 W, fournit une puissance mécanique utilisable (ou puissance utile), $P_u$, de 170 W.
+Le moteur électrique d’un tournevis sans fil, alimenté par une batterie rechargeable, de puissance électrique consommée 285 W, fournit une puissance mécanique utilisable (ou puissance utile), $P_u$ , de 170 W.
 
 On utilise cet outil pour visser une vis dans une cheville. L’opération dure 4 s.
 
