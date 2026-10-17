@@ -1,10 +1,6 @@
 ---
 title: "E1"
 ---
-![Logo du lycée du Hainaut](images/logo_lycee_hainaut.jpg)
-
-**PCM - Physique Chimie**  
-**TSTi2D**
 
 # Exercices - E1 : L’énergie et ses enjeux
 
