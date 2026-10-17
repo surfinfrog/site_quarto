@@ -3,3 +3,4 @@ title: "Exercices"
 ---
 
 - [Puissances en régime sinusoïdal : deux applications corrigées](puissances.qmd)
+- [Énergie et ses enjeux](E1.qmd)
