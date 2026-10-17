@@ -145,5 +145,103 @@
     "title": "Ressources",
     "section": "Outils",
     "text": "Outils\n\nDocumentation Quarto\nR et RStudio"
+  },
+  {
+    "objectID": "E1.html",
+    "href": "E1.html",
+    "title": "E1",
+    "section": "",
+    "text": "Logo du lycée du Hainaut\nPCM - Physique Chimie\nTSTi2D"
+  },
+  {
+    "objectID": "E1.html#exercice-1-calcul-de-puissances-et-énergies---unités",
+    "href": "E1.html#exercice-1-calcul-de-puissances-et-énergies---unités",
+    "title": "E1",
+    "section": "Exercice 1 : Calcul de puissances et énergies - Unités",
+    "text": "Exercice 1 : Calcul de puissances et énergies - Unités\nCompléter le tableau suivant (vous détaillerez vos calculs dans votre cahier) :\n\n\n\nAppareil\nPuissance moyenne absorbée\nDurée\nÉnergie absorbée\n\n\n\n\nLampe\n50 W\n10 min\n… Wh\n\n\nMotrice de TGV\n10 MW\n… h\n\\(5 \\times 10^7\\) Wh\n\n\nOrdinateur\n200 W\n1 h\n… J\n\n\nMoteur de voiture\n… kW\n20 min\n110 MJ"
+  },
+  {
+    "objectID": "E1.html#exercice-2-cuisson-dun-poulet",
+    "href": "E1.html#exercice-2-cuisson-dun-poulet",
+    "title": "E1",
+    "section": "Exercice 2 : Cuisson d’un poulet",
+    "text": "Exercice 2 : Cuisson d’un poulet\nUn four-grill de puissance moyenne 1 500 W (en fonctionnement grill), permet de cuire un poulet en 1 h 15 min.\n\nRappeler la relation qui permet de calculer l’énergie \\(E\\) consommée par un appareil à partir de sa puissance moyenne \\(P\\) et de la durée d’utilisation \\(\\Delta t\\).\nIndiquer les unités de \\(P\\) et de \\(\\Delta t\\) pour que l’énergie soit exprimée en kWh.\nDéterminer l’énergie électrique nécessaire pour la cuisson, en kWh.\n\nHors abonnement, le prix TTC du kWh d’électricité est voisin de 0,25 euro.\n\nQuel est le coût de l’énergie électrique pour la cuisson du poulet ?"
+  },
+  {
+    "objectID": "E1.html#exercice-3-le-moteur-chauffe",
+    "href": "E1.html#exercice-3-le-moteur-chauffe",
+    "title": "E1",
+    "section": "Exercice 3 : Le moteur chauffe !",
+    "text": "Exercice 3 : Le moteur chauffe !\nLe moteur électrique d’un tournevis sans fil, alimenté par une batterie rechargeable, de puissance électrique consommée 285 W, fournit une puissance mécanique utilisable (ou puissance utile), \\(P_u\\), de 170 W.\nOn utilise cet outil pour visser une vis dans une cheville. L’opération dure 4 s.\n\nQuelle est l’énergie électrique consommée durant cette opération ?\nQuel est le travail effectué par l’outil pour insérer la vis ?\nQuel est le rendement du moteur électrique ?\nAprès une utilisation de quelques minutes on peut percevoir que le moteur dégage de la chaleur. Justifier cette observation."
+  },
+  {
+    "objectID": "E1.html#exercice-4-rendement-dune-ampoule",
+    "href": "E1.html#exercice-4-rendement-dune-ampoule",
+    "title": "E1",
+    "section": "Exercice 4 : Rendement d’une ampoule",
+    "text": "Exercice 4 : Rendement d’une ampoule\nOn donne les chaînes énergétiques de deux types d’ampoules, une ampoule à incandescence et une ampoule fluocompacte.\n\n\n\nChaînes énergétiques des deux ampoules à compléter : lampe à incandescence, énergie électrique reçue de 60 J et énergie thermique de 57 J ; lampe fluocompacte, énergie thermique de 8 J et énergie lumineuse de 3 J.\n\n\n\nRappeler la définition du rendement d’un convertisseur.\nCompléter les formes d’énergies manquantes ainsi que leurs valeurs.\nCalculer le rendement de chacune de ces deux lampes."
+  },
+  {
+    "objectID": "E1.html#exercice-5-énergie-et-puissance-absorbées-par-un-panneau-solaire",
+    "href": "E1.html#exercice-5-énergie-et-puissance-absorbées-par-un-panneau-solaire",
+    "title": "E1",
+    "section": "Exercice 5 : Énergie et puissance absorbées par un panneau solaire",
+    "text": "Exercice 5 : Énergie et puissance absorbées par un panneau solaire\nUn particulier relève la valeur affichée par le compteur d’énergie électrique produite par son panneau solaire à différents moments d’une journée pas toujours très ensoleillée.\n\n\n\n\n\n\n\n\n\n\nHeures\nMinuit\n0 h - 8 h\n8 h - 11 h\n11 h - 12 h\n\n\n\n\nCompteur électrique (kWh)\nMise à zéro : 0,0\nRelevé à 8 h 00 : 0,0\nRelevé à 11 h 00 : 1,5\nRelevé à 12 h 00 : 1,8\n\n\nPuissance électrique produite (kW)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeures\n12 h - 15 h\n15 h - 20 h\n20 h - 0 h\n\n\n\n\nCompteur électrique (kWh)\nRelevé à 15 h 00 : 4,8\nRelevé à 20 h 00 : 6,3\nRelevé à minuit : 6,3\n\n\nPuissance électrique produite (kW)\n\n\n\n\n\n\nAttention ! Le compteur affiche l’énergie électrique accumulée.\n\nRappeler le type de conversion effectuée par un panneau solaire photovoltaïque.\nDéterminer la puissance électrique moyenne produite par le panneau sur chaque intervalle de temps. Compléter le tableau.\nEn déduire la puissance électrique moyenne produite sur l’ensemble de la journée."
+  },
+  {
+    "objectID": "E1.html#exercice-6-groupe-électrogène",
+    "href": "E1.html#exercice-6-groupe-électrogène",
+    "title": "E1",
+    "section": "Exercice 6 : Groupe électrogène",
+    "text": "Exercice 6 : Groupe électrogène\nUn groupe électrogène est constitué d’un moteur diesel et d’une transmission permettant de mettre en rotation un alternateur.\nL’ensemble sert d’alimentation de secours à une installation électrique de 5,5 kW. Le rendement du moteur diesel est de 40 %, celui de la transmission de 65 % et celui de l’alternateur de 90 %.\n\nDessiner le schéma de la chaîne énergétique du groupe électrogène en indiquant les différentes formes d’énergie absorbée, fournie et perdue par chaque élément.\nCalculer le rendement du groupe électrogène.\nCalculer la puissance absorbée par le moteur diesel lorsque l’alternateur fournit 5,5 kW à l’installation électrique.\nCalculer l’énergie fournie par le carburant pour 6 h de fonctionnement.\nSachant que le pouvoir calorifique d’un litre de gasoil est de \\(\\mathrm{PC} = 38\\ \\mathrm{MJ}\\cdot\\mathrm{L}^{-1}\\), calculer la consommation de carburant pour 6 h de fonctionnement."
+  },
+  {
+    "objectID": "exercices/E1.html",
+    "href": "exercices/E1.html",
+    "title": "E1",
+    "section": "",
+    "text": "Logo du lycée du Hainaut\nPCM - Physique Chimie\nTSTi2D"
+  },
+  {
+    "objectID": "exercices/E1.html#exercice-1-calcul-de-puissances-et-énergies---unités",
+    "href": "exercices/E1.html#exercice-1-calcul-de-puissances-et-énergies---unités",
+    "title": "E1",
+    "section": "Exercice 1 : Calcul de puissances et énergies - Unités",
+    "text": "Exercice 1 : Calcul de puissances et énergies - Unités\nCompléter le tableau suivant (vous détaillerez vos calculs dans votre cahier) :\n\n\n\nAppareil\nPuissance moyenne absorbée\nDurée\nÉnergie absorbée\n\n\n\n\nLampe\n50 W\n10 min\n… Wh\n\n\nMotrice de TGV\n10 MW\n… h\n\\(5 \\times 10^7\\) Wh\n\n\nOrdinateur\n200 W\n1 h\n… J\n\n\nMoteur de voiture\n… kW\n20 min\n110 MJ"
+  },
+  {
+    "objectID": "exercices/E1.html#exercice-2-cuisson-dun-poulet",
+    "href": "exercices/E1.html#exercice-2-cuisson-dun-poulet",
+    "title": "E1",
+    "section": "Exercice 2 : Cuisson d’un poulet",
+    "text": "Exercice 2 : Cuisson d’un poulet\nUn four-grill de puissance moyenne 1 500 W (en fonctionnement grill), permet de cuire un poulet en 1 h 15 min.\n\nRappeler la relation qui permet de calculer l’énergie \\(E\\) consommée par un appareil à partir de sa puissance moyenne \\(P\\) et de la durée d’utilisation \\(\\Delta t\\).\nIndiquer les unités de \\(P\\) et de \\(\\Delta t\\) pour que l’énergie soit exprimée en kWh.\nDéterminer l’énergie électrique nécessaire pour la cuisson, en kWh.\n\nHors abonnement, le prix TTC du kWh d’électricité est voisin de 0,25 euro.\n\nQuel est le coût de l’énergie électrique pour la cuisson du poulet ?"
+  },
+  {
+    "objectID": "exercices/E1.html#exercice-3-le-moteur-chauffe",
+    "href": "exercices/E1.html#exercice-3-le-moteur-chauffe",
+    "title": "E1",
+    "section": "Exercice 3 : Le moteur chauffe !",
+    "text": "Exercice 3 : Le moteur chauffe !\nLe moteur électrique d’un tournevis sans fil, alimenté par une batterie rechargeable, de puissance électrique consommée 285 W, fournit une puissance mécanique utilisable (ou puissance utile), \\(P_u\\), de 170 W.\nOn utilise cet outil pour visser une vis dans une cheville. L’opération dure 4 s.\n\nQuelle est l’énergie électrique consommée durant cette opération ?\nQuel est le travail effectué par l’outil pour insérer la vis ?\nQuel est le rendement du moteur électrique ?\nAprès une utilisation de quelques minutes on peut percevoir que le moteur dégage de la chaleur. Justifier cette observation."
+  },
+  {
+    "objectID": "exercices/E1.html#exercice-4-rendement-dune-ampoule",
+    "href": "exercices/E1.html#exercice-4-rendement-dune-ampoule",
+    "title": "E1",
+    "section": "Exercice 4 : Rendement d’une ampoule",
+    "text": "Exercice 4 : Rendement d’une ampoule\nOn donne les chaînes énergétiques de deux types d’ampoules, une ampoule à incandescence et une ampoule fluocompacte.\n\n\n\nChaînes énergétiques des deux ampoules à compléter : lampe à incandescence, énergie électrique reçue de 60 J et énergie thermique de 57 J ; lampe fluocompacte, énergie thermique de 8 J et énergie lumineuse de 3 J.\n\n\n\nRappeler la définition du rendement d’un convertisseur.\nCompléter les formes d’énergies manquantes ainsi que leurs valeurs.\nCalculer le rendement de chacune de ces deux lampes."
+  },
+  {
+    "objectID": "exercices/E1.html#exercice-5-énergie-et-puissance-absorbées-par-un-panneau-solaire",
+    "href": "exercices/E1.html#exercice-5-énergie-et-puissance-absorbées-par-un-panneau-solaire",
+    "title": "E1",
+    "section": "Exercice 5 : Énergie et puissance absorbées par un panneau solaire",
+    "text": "Exercice 5 : Énergie et puissance absorbées par un panneau solaire\nUn particulier relève la valeur affichée par le compteur d’énergie électrique produite par son panneau solaire à différents moments d’une journée pas toujours très ensoleillée.\n\n\n\n\n\n\n\n\n\n\nHeures\nMinuit\n0 h - 8 h\n8 h - 11 h\n11 h - 12 h\n\n\n\n\nCompteur électrique (kWh)\nMise à zéro : 0,0\nRelevé à 8 h 00 : 0,0\nRelevé à 11 h 00 : 1,5\nRelevé à 12 h 00 : 1,8\n\n\nPuissance électrique produite (kW)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeures\n12 h - 15 h\n15 h - 20 h\n20 h - 0 h\n\n\n\n\nCompteur électrique (kWh)\nRelevé à 15 h 00 : 4,8\nRelevé à 20 h 00 : 6,3\nRelevé à minuit : 6,3\n\n\nPuissance électrique produite (kW)\n\n\n\n\n\n\nAttention ! Le compteur affiche l’énergie électrique accumulée.\n\nRappeler le type de conversion effectuée par un panneau solaire photovoltaïque.\nDéterminer la puissance électrique moyenne produite par le panneau sur chaque intervalle de temps. Compléter le tableau.\nEn déduire la puissance électrique moyenne produite sur l’ensemble de la journée."
+  },
+  {
+    "objectID": "exercices/E1.html#exercice-6-groupe-électrogène",
+    "href": "exercices/E1.html#exercice-6-groupe-électrogène",
+    "title": "E1",
+    "section": "Exercice 6 : Groupe électrogène",
+    "text": "Exercice 6 : Groupe électrogène\nUn groupe électrogène est constitué d’un moteur diesel et d’une transmission permettant de mettre en rotation un alternateur.\nL’ensemble sert d’alimentation de secours à une installation électrique de 5,5 kW. Le rendement du moteur diesel est de 40 %, celui de la transmission de 65 % et celui de l’alternateur de 90 %.\n\nDessiner le schéma de la chaîne énergétique du groupe électrogène en indiquant les différentes formes d’énergie absorbée, fournie et perdue par chaque élément.\nCalculer le rendement du groupe électrogène.\nCalculer la puissance absorbée par le moteur diesel lorsque l’alternateur fournit 5,5 kW à l’installation électrique.\nCalculer l’énergie fournie par le carburant pour 6 h de fonctionnement.\nSachant que le pouvoir calorifique d’un litre de gasoil est de \\(\\mathrm{PC} = 38\\ \\mathrm{MJ}\\cdot\\mathrm{L}^{-1}\\), calculer la consommation de carburant pour 6 h de fonctionnement."
   }
 ]
