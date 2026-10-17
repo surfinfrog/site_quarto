@@ -1,8 +1,6 @@
 ---
-title: "E1"
+title: "Exercices - E1 : L’énergie et ses enjeux"
 ---
-
-# Exercices - E1 : L’énergie et ses enjeux
 
 ## Exercice 1 : Calcul de puissances et énergies - Unités
 
